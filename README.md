@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👾 Samuel R.
+**`"Vivendo e aprendendo 👽"`**
 
-<!--
-**Samuel-devop/Samuel-devop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Olá! Eu sou o Samuel!
 
-Here are some ideas to get you started:
+💻 Apaixonado por tecnologia e sempre em busca de aprender coisas novas. Atualmente, estou focado em desenvolver minhas habilidades em HTML e CSS, explorando o universo da criação para a web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Estou constantemente explorando novas ferramentas e conceitos para expandir meu conhecimento e crescer como desenvolvedor.
+
+✨ Adoro desafios e acredito que cada pequeno passo na jornada é uma conquista para algo maior.
+
+<p align=center>
+<img width="32px" src="https://i.imgur.com/eKs3s7I.png" style="max-width: 100%;" title="samenko" 
+>
+
+## Estatísticas
+
+<img
+  align="left"
+  height="160px"
+  src="https://github-readme-stats.vercel.app/api?username=Samuel-devop&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
+
+  <img
+  align="left"
+  height="160px"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-devop&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
+
+
+![Ayssa](https://i.imgur.com/gFWDcjD.gif)
